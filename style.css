@@ -1,0 +1,7 @@
+.stickyfooter{
+    flex-shrink: 0;
+}
+
+body {
+    background: rgb(240, 247, 248);
+  }
